@@ -17,7 +17,9 @@ Este é resultado de muito estudo em um curso da Umedy, ministrado por Renam mar
 ![react](https://image.ibb.co/cnGL3T/react03.png)
 
 #Iniciando os projetos:
+
 dentro da pasta Lista de tarefas - yarn start
+
 dentro da pasta servidorJson - yarn start
 
 
