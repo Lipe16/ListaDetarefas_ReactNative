@@ -16,7 +16,7 @@ Este é resultado de muito estudo em um curso da Umedy, ministrado por Renam mar
 ### ilustração 03
 ![react](https://image.ibb.co/cnGL3T/react03.png)
 
-#Iniciando os projetos:
+# Iniciando os projetos:
 
 dentro da pasta Lista de tarefas - yarn start
 
