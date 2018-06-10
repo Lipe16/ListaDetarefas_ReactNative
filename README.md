@@ -3,7 +3,7 @@
 
 Este projeto é educacional, mostra o uso de requisições HTTP(também mostra como subir um servidor de testes json que recebe e responde usando REST), criação de componentes, customização de telas, criação de classes, metodos funcionais sem a necessidade de criar uma classe e com isso dá uma base para começar a criar projetos react.
 
-Este projeto foi é resultado de muito estudo em um curso da Umedy, ministrado por Renam martins(https://www.udemy.com/aplicativos-moveis-com-o-react-native/learn/v4/overview).
+Este é resultado de muito estudo em um curso da Umedy, ministrado por Renam martins(https://www.udemy.com/aplicativos-moveis-com-o-react-native/learn/v4/overview).
 
 ### ilustração 01
 ![react](https://image.ibb.co/fhMyq8/lista01.png)
